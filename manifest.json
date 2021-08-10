@@ -1,0 +1,53 @@
+{
+    "short_name": "Emejulu Ads Site",
+    "name": "Ads-Only Site",
+    "description": "Ads-Only Site",
+    "icons": [
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "225x225",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "225x225",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "rgb(255, 255, 255)",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "theme_color": "#29B6F6",
+    "shortcuts": [
+        {
+            "short_name": "Emejulu Ads Site",
+            "name": "Ads-Only Site",
+            "description": "Ads-Only Site",
+            "url": "index.html",
+            "icons": [
+                {
+                    "src":"logo.png",
+                    "sizes": "225x225",
+                    "purpose": "any maskable"
+                }
+            ]
+        },
+        {
+            "short_name": "Emejulu Ads Site",
+            "name": "Ads-Only Site",
+            "description": "Ads-Only Site",
+            "url": "index.html",
+            "icons": [
+                {
+                    "src": "logo.png",
+                    "sizes": "225x225",
+                    "purpose": "any maskable"
+                }
+            ]
+        }
+    ]
+}
