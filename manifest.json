@@ -21,7 +21,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "theme_color": "#29B6F6",
+    "theme_color": "rgb(41,182,246)",
     "shortcuts": [
         {
             "short_name": "Emejulu Ads Site",
