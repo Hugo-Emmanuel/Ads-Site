@@ -40,3 +40,6 @@ footer a{
     color: rgb(255, 255, 255);
     transition-duration: 0.5s;
  }
+a{
+text-decoration: none;
+}
