@@ -2,4 +2,4 @@
 Ads-Only website
 
 ## Preview
-<iframe src="https://ads-only.netlify.app"></iframe>
+![Preview 1](https://raw.githubusercontent.com/JUEsoft/Ads-Site/main/Screenshot_20210814-234243.png)
