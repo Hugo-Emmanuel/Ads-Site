@@ -12,7 +12,7 @@ font-weight:bolder;
 #hd{
 box-sizing:border-box;
 width: 100vw;
-height: 11vh;
+height: 7vh;
 color: white;
 background: #29B6F6;
 border-radius: 0 0 20px 20px;
@@ -26,6 +26,14 @@ font-size:25px;
 #ads{
 font-size:x-large;
 font-weight:bolder;
+}
+#et{
+font-size:xx-large;
+}
+#stats{
+word-break: break-all;
+overflow: hidden;
+text-overflow: ellipsis;
 }
 footer {
     display: block;
