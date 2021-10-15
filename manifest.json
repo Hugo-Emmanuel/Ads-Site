@@ -1,7 +1,7 @@
 {
-    "short_name": "Emejulu Ads Site",
-    "name": "Ads-Only Site",
-    "description": "Ads-Only Site",
+    "short_name": "Hugo Ads Site",
+    "name": "Hugo Ads-Only Site",
+    "description": "Hugo Ads-Only Site",
     "icons": [
         {
             "src": "logo.png",
@@ -21,10 +21,10 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "theme_color": "rgb(41,182,246)",
+    "theme_color": "rgb(76, 175, 80)",
     "shortcuts": [
         {
-            "short_name": "Emejulu Ads Site",
+            "short_name": "Hugo Ads Site",
             "name": "Ads-Only Site",
             "description": "Ads-Only Site",
             "url": "index.html",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "short_name": "Emejulu Ads Site",
+            "short_name": "Hugo Ads Site",
             "name": "Ads-Only Site",
             "description": "Ads-Only Site",
             "url": "index.html",
